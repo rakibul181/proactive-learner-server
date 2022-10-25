@@ -1,0 +1,243 @@
+[
+    {
+        "id": "6357ca7f1dfde8517db93971",
+        "courseID": "PH-101",
+        "picture": "https://ibb.co/Y099Fn6",
+        "price": 99,
+        "creadit": 4,
+        "courseName": "Mechanics And Properties of Matter",
+        "prerequisites": "Basics principle of Newton's law",
+        "difficulty": "Intermediate",
+        "duration": "Approximatily 12-14 week",
+        "timeCommitment": "10-12 houre per week",
+        "courseSummery": "An introductory course designed for physical science and pre-engineering majors. Uncovers the foundation of non-relativistic Newtonian mechanics of a system of particles. Topics include translational, rotational, vibrational and wave-like motions in simple physical and engineering systems. Three hours lecture, two and a half hours lab. Prerequisite: concurrent enrollment in the calculus sequence, or consent. Offered annually. Most of the phenomena in the world around you are, at the fundamental level, based on physics, and much of physics is based on mechanics. Mechanics begins by quantifying motion, and then explaining it in terms of forces, energy and momentum. This allows us to analyse the operation of many familiar phenomena around us, but also the mechanics of planets, stars and galaxies. In this course, we study the physics of motion from the ground up – learning the basic principles of physical laws and their application to the behavior of objects. Classical mechanics studies statics, kinematics (motion), dynamics (forces), energy, and momentum developed prior to the 1900 from the physics of Galileo Galilei and Isaac Newton. We encourage you to supplement what you learn here with the Saylor course PHYS102 Introduction to Electromagnetism.",
+        "chapter": [
+            "Motion 2D & 3D",
+            "Rotationsl Daynamics",
+            "Gravitation",
+            "Mechanics of elistics Media",
+            "Fluid Daynamics",
+            "Work and Energy",
+            "Angular momentum"
+        ],
+        "ratting": 4.9,
+        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "learning_outcome": [
+            "Frame of reference and its associated coordinate systems. ",
+            "Newton's laws and the motion of simple systems. ",
+            "energy, work, power, momentum, force, impulse, angular velocity, angular acceleration and torque.",
+            "commodo mollit laboris pariatur sunt ipsum mollit",
+            "conservation of energy, momentum, and angular momentum. ",
+            "the rotation of rigid bodiest",
+            "motion in a gravitational field."
+        ],
+        "instructor": [
+            {
+                "id": 0,
+                "name": "Hobbs Joyner",
+                "profileImg": "http://placehold.it/32x32",
+                "specialization": "asdffh",
+                "qualification": "asdfg"
+            }
+        ]
+    },
+    {
+        "id": "6357ca7fe87b93844cb41af5",
+        "courseID": "PH-203",
+        "picture": "https://ibb.co/NKKDCpV",
+        "price": 99,
+        "creadit": 4,
+        "courseName": "Classical Mechanics",
+        "prerequisites": "Newtonian Mechanics, Electromagnetism",
+        "difficulty": "Advance",
+        "duration": "Approximatily 12-14 week",
+        "timeCommitment": "10-12 houre per week",
+        "courseSummery": "Constraints and generalized coordinates. Virtual displacements, Lagrange's equations. Variational calculus, Hamilton's principle. Lagrangian for a particle in an electromagnetic field. Constants of motion, symmetry properties. Virial theorem. Central forces. Elements of the kinematics and dynamics of rigid bodies. Special relativity. Normal coordinates. Hamilton's equations. Canonical transformations.",
+        "chapter": [
+            "Lagrangian Mechanics",
+            "Conserved Quantities",
+            "Orbits and Scattering",
+            "Oscillations",
+            "Tricky Potentials",
+            "Hamiltonian Mechanics"
+        ],
+        "ratting": 4.9,
+        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "learning_outcome": [
+            "Understanding the physical principle behind the derivation of Lagrange and Hamilton's equations, and the advantages of these formulations",
+            "Being able to relate symmetries to conservation laws in physical systems, and apply these concepts to practical situations.",
+            "Being familiar with the fundamental principles of the special theory of relativity.",
+            "Understanding the intricacies of moving-reference frames and rigid-body motion.",
+            "Understanding the contribution of the Lagrangian/Hamiltonian formulation of classical physics in statistical physics",
+            " Applying computational (numerical) methods for solving mechanical problems." 
+        ],
+        "instructor": [
+            {
+                "id": 0,
+                "name": "Nanette Townsend",
+                "profileImg": "http://placehold.it/32x32",
+                "specialization": "asdffh",
+                "qualification": "asdfg"
+            }
+        ]
+    },
+    {
+        "id": "6357ca7fad92d37ef8d688cf",
+        "courseID": "PH-102",
+        "picture": "https://ibb.co/By08ycc",
+        "price": 99,
+        "creadit": 4,
+        "courseName": "Electromagnetism",
+        "prerequisites": "Basics Mathmatical Physics",
+        "difficulty": "Intermediate",
+        "duration": "Approximatily 12-14 week",
+        "timeCommitment": "10-12 houre per week",
+        "courseSummery": "A course for physical science and pre-engineering majors. Topics include electric and magnetic fields, a.c. and d.c. circuits, geometrical optics, wave motion and physical optics. Three hours lecture, two and a half hours lab. Prerequisites: PHYS 105, concurrent enrollment in calculus II or consent. Offered annually.This course is the second in a series on Electromagnetism beginning with Electromagnetism I (8.02 or 8.022). It is a survey of basic electromagnetic phenomena: electrostatics; magnetostatics; electromagnetic properties of matter; time-dependent electromagnetic fields; Maxwell’s equations; electromagnetic waves; emission, absorption, and scattering of radiation; and relativistic electrodynamics and mechanics.",
+        "chapter": [
+            "Electric Fields and Stationary Charges",
+            "Magnetic Fields and Steady Currents",
+            "Electrodynamics",
+            "Maxwell’s Equation",
+            "Electromagnetic effects in simple materials",
+            "Electromagnetic waves"
+        ],
+        "ratting": 4.9,
+        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "learning_outcome": [
+            "describe the electric field and potential, and related concepts, for stationary charges.",
+            "calculate electrostatic properties of simple charge distributions using Coulomb’s law, Gauss’s law and electric potential.",
+            "describe the magnetic field for steady currents and moving charges.",
+            "describe electromagnetic induction and related concepts, and make calculations using Faraday and Lenz’s laws.",
+            "describe the basic physical content of Maxwell’s laws in integral form",
+            "Derive Maxwell's equation set from the empirical laws of electromagnetism."
+        ],
+        "instructor": [
+            {
+                "id": 0,
+                "name": "Mcdonald Gonzalez",
+                "profileImg": "http://placehold.it/32x32",
+                "specialization": "asdffh",
+                "qualification": "asdfg"
+            }
+        ]
+    },
+    {
+        "id": "6357ca7f56090ed380cc0378",
+        "courseID": "PH-201",
+        "picture": "https://ibb.co/0CRd0Pp",
+        "price": 99,
+        "creadit": 4,
+        "courseName": "Fundamental Of Optics",
+        "prerequisites": "Bacics physics and Geomatri",
+        "difficulty": "Intermediate",
+        "duration": "Approximatily 12-14 week",
+        "timeCommitment": "10-12 houre per week",
+        "courseSummery": "According to our local surveys generalized to the Egyptian population, there are approximately 20 million people in Egypt needing eye glasses. This course is to develop and promote the enrolled participants’ capacity to work as professional opticians within the team of eye care in integration with the roles of Ophthalmologist, Clinical Ophthalmic Assistant, and Ophthalmic Nurse. The enrolled participants are being prepared to meet the real market needs, and to gain a better recognition and have a market advantage through a mix of interactive sessions and practical applications of essential skills.",
+        "chapter": [
+            "Basic anatomy and physiology of the Eye",
+            "Basics of the Diseases of the Eye (Red & Blue Flags)",
+            "Geometric optics",
+            "Optics and Refractive States",
+            "Optical dispensing",
+            "Contact lenses",
+            "Fundamentals of optical sales management"
+        ],
+        "ratting": 4.9,
+        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "learning_outcome": [
+            "Understand the basics of geometric optics",
+            "Conduct methods of assessing visual acuity and binocular status",
+            "Perform refraction assessment for all patients",
+            "Understand the fundamentals of optical sales management",
+            "Analyse simple examples of interference and diffraction phenomena",
+            "Apply the physics processes involved in producing laser radiation to solve simple problems"
+        ],
+        "instructor": [
+            {
+                "id": 0,
+                "name": "Laverne Cannon",
+                "profileImg": "http://placehold.it/32x32",
+                "specialization": "asdffh",
+                "qualification": "asdfg"
+            }
+        ]
+    },
+    {
+        "id": "6357ca7f8f3c323f06d48a36",
+        "courseID": "PH-301",
+        "picture": "https://ibb.co/bb22Kbz",
+        "price": 99,
+        "creadit": 4,
+        "courseName": "Quantum Mechanics",
+        "prerequisites": "Mathematics,Dynamics, Vibrations & Waves,",
+        "difficulty": "Advance",
+        "duration": "Approximatily 16-18 week",
+        "timeCommitment": "10-12 houre per week",
+        "courseSummery": "Nisi ullamco adipisicing dolore eiusmod voluptate ipsum cupidatat officia ea commodo anim. Ex nulla ipsum elit proident deserunt et proident ut. Pariatur voluptate veniam velit sunt aliqua excepteur magna reprehenderit laborum ea. Ad cillum nisi incididunt consequat aute cupidatat tempor consequat dolore anim pariatur enim aute.\r\n",
+        "chapter": [
+            "Basic Elements of Quantum Mechanics",
+            "Commutators and compatibility ",
+            "The Harmonic Oscillator",
+            "Orbital angular momentum",
+            "Quantum gases"
+        ],
+        "ratting": 4.9,
+        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "learning_outcome": [
+            "Use quantum mechanics to describe the hydrogen atom.",
+            "Use quantum mechanics to describe the properties of one-electron at",
+            "Deal with operators and solve eigenvalue problems in quantum mechanics",
+            "Demonstrate an understanding of the implications of the indistinguishability of particles for systems of non-interacting quantum particles",
+            "Explain the physical origin of Bose-Einstein condensation, to characterize it quantitatively, and to explain the experiments confirming Bose-Einstein condensation"
+        ],
+        "instructor": [
+            {
+                "id": 0,
+                "name": "Ruth Calhoun",
+                "profileImg": "http://placehold.it/32x32",
+                "specialization": "asdffh",
+                "qualification": "asdfg"
+            }
+        ]
+    },
+    {
+        "id": "6357ca7f81737a1c77b6245c",
+        "courseID": "PH-403",
+        "picture": "https://ibb.co/L5CNn0v",
+        "price": 99,
+        "creadit": 4,
+        "courseName": "Quantum Physics and Relativity",
+        "prerequisites": "Quantum Mechanics",
+        "difficulty": "Advance",
+        "duration": "Approximatily 12-14 week",
+        "timeCommitment": "10-12 houre per week",
+        "courseSummery": "General Theory of Relativity or the theory of relativistic gravitation is the one most famous branch of theoretical physics. Everybody heard about black holes, gravitational waves and expanding Universe. The goal of this online course is to introduce you into this theory and to give the precise meaning to these notions. Einstein's General Relativity and Gravitation is a graduate-level course taught at UC Irvine as Physics 255. This course covers diverse topics in general relativity, including an introduction to Einstein’s theory of gravitation, tensor analysis, Einstein’s field equations, astronomical tests of Einstein’s theory, and gravitational waves.",
+        "chapter": [
+            "Introduction to the Course, and Einstein in Context",
+            "Events, Clocks, and Reference Frames",
+            "Ethereal Problems and Solutions",
+            "The Weirdness Begins",
+            "Spacetime Switches",
+            "Paradoxes to Ponder"
+        ],
+        "ratting": 4.9,
+        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "learning_outcome": [
+            "define the notion of an inertial frame and the concept of an observer. ",
+            "state the principles of Special Relativity and use them to derive time dilation and length contraction.",
+            "perform calculations using the Lorentz transformation formulae",
+            "perform calculations using four-vectors. ",
+            "use the ideas of wave-particle duality and the uncertainty princple to solve problems in quantum mechanics. ",
+            "perform calculations using the quantum wave- function of a particle moving in one dimension, including making use of the momentum operator. "
+        ],
+        "instructor": [
+            {
+                "id": 0,
+                "name": "Katelyn Rojas",
+                "profileImg": "http://placehold.it/32x32",
+                "specialization": "asdffh",
+                "qualification": "asdfg"
+            }
+        ]
+    }
+ ]
