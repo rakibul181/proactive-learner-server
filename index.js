@@ -7,7 +7,11 @@ app.use(cors())
 const courses = require('./courses.json')
 
 app.get('/',(req,res)=>{
-    res.send('Coueses Api Is Running')
+    res.send('Courses Api Is Running')
+})
+
+app.get('/courses',(req, res)=>{
+    res.send(courses)
 })
 
 app.listen(port,()=>{
