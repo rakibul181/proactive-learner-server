@@ -4,6 +4,8 @@ const app = express()
 const port = process.env.PORT || 5000
 app.use(cors())
 
+const courses = require('./courses.json')
+
 app.get('/',(req,res)=>{
     res.send('Coueses Api Is Running')
 })
