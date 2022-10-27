@@ -21,7 +21,7 @@
             "Angular momentum"
         ],
         "ratting": 4.9,
-        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "outcome": "On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
         "learning_outcome": [
             "Frame of reference and its associated coordinate systems. ",
             "Newton's laws and the motion of simple systems. ",
@@ -62,14 +62,14 @@
             "Hamiltonian Mechanics"
         ],
         "ratting": 4.9,
-        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "outcome": "On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
         "learning_outcome": [
             "Understanding the physical principle behind the derivation of Lagrange and Hamilton's equations, and the advantages of these formulations",
             "Being able to relate symmetries to conservation laws in physical systems, and apply these concepts to practical situations.",
             "Being familiar with the fundamental principles of the special theory of relativity.",
             "Understanding the intricacies of moving-reference frames and rigid-body motion.",
             "Understanding the contribution of the Lagrangian/Hamiltonian formulation of classical physics in statistical physics",
-            " Applying computational (numerical) methods for solving mechanical problems." 
+            " Applying computational (numerical) methods for solving mechanical problems."
         ],
         "instructor": [
             {
@@ -102,7 +102,7 @@
             "Electromagnetic waves"
         ],
         "ratting": 4.9,
-        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "outcome": "On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
         "learning_outcome": [
             "describe the electric field and potential, and related concepts, for stationary charges.",
             "calculate electrostatic properties of simple charge distributions using Coulomb’s law, Gauss’s law and electric potential.",
@@ -143,7 +143,7 @@
             "Fundamentals of optical sales management"
         ],
         "ratting": 4.9,
-        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "outcome": "On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
         "learning_outcome": [
             "Understand the basics of geometric optics",
             "Conduct methods of assessing visual acuity and binocular status",
@@ -182,7 +182,7 @@
             "Quantum gases"
         ],
         "ratting": 4.9,
-        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "outcome": "On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
         "learning_outcome": [
             "Use quantum mechanics to describe the hydrogen atom.",
             "Use quantum mechanics to describe the properties of one-electron at",
@@ -221,7 +221,7 @@
             "Paradoxes to Ponder"
         ],
         "ratting": 4.9,
-        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
+        "outcome": "On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
         "learning_outcome": [
             "define the notion of an inertial frame and the concept of an observer. ",
             "state the principles of Special Relativity and use them to derive time dilation and length contraction.",
@@ -240,4 +240,4 @@
             }
         ]
     }
- ]
+]
